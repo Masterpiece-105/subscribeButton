@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 $receiver = "sy907219@gmail.com";
 $subject = "Email Test via PHP using Localhost";
 $body = "Hi, there...This is a test email send from Localhost.";
@@ -9,4 +9,4 @@ if(mail($receiver, $subject, $body, $sender)){
 }else{
     echo "Sorry, failed while sending mail!";
 }
-?>
+?> -->
